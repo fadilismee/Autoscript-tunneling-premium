@@ -1,12 +1,12 @@
-#!/bin/bash
+#/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » AnggaBadol-Store
-# Email      » AnggaBadol-Store@gmail.com
-# telegram   » https://t.me/AnggaBadol-Store
-# whatsapp   » wa.me/+6285664271447
+# Develovers » ReeMods
+# Email      » retslavmods@gmail.com
+# telegram   » https://t.me/ReeMods
+# whatsapp   » wa.me/+6281255378890
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# AnggaBadol-Store
+# ReeMods
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -33,10 +33,10 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Developer » AnggaBadol  VPN-STORE${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Developer » ReeMods${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
-echo -e "  Pembuat : ${green}AnggaBadol  VPN-STORE ${NC}"
-echo -e "  Recode By My Self AnggaBadol  VPN-STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Pembuat : ${green}ReeMods ${NC}"
+echo -e "  Recode By My Self ReeMods ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/anggabadol/Autoscript-tunneling-premium/main/"
+    REPO="https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/"
 
 ####
 start=$(date +%s)
@@ -279,7 +279,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/anggabadol/Autoscript-tunneling-premium/main/register"
+izinsc="https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -316,13 +316,13 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6348824977"
-KEY="6854390843:AAHnygrqUOSq-5spVPBBrOvBMy4xcdUBPBU"
+CHATID="6205242427"
+KEY="7067621582:AAHu3Hkncs7bX6dUju6YrwtRi-12NNvlY80"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>PREMIUM AUTOSCRIPT</b>
+<b>ReeMods PREMIUM AUTOSCRIPT</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
