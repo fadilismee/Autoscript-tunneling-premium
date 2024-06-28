@@ -1,5 +1,5 @@
 <p style="text-align:center">
-<font color="#FF1493">⚡ReeMods Premium tunneling⚡</font><br />
+<font color="#FF1493">⚡vpiins store Premium tunneling⚡</font><br />
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font><br>
 <font color="yellow"><b>🤗 2 𝑳𝑶𝑮𝑰𝑵 𝑫𝑬𝑽𝑰𝑪𝑬 !!! </b></font><br>
 <font color="magenta"><b>😋𝑵𝑶 𝑫𝑫𝑶𝑺!!! </b></font><br>
@@ -7,8 +7,8 @@
 <font color="green"><b>😃 𝑵𝑶 𝑴𝑼𝑳𝑻𝑰𝑳𝑶𝑮𝑰𝑵 !!!</b></font><br>
 <font color="blue"><b>🤨𝑵𝑶 𝑷𝑶𝑹𝑵18+ !!!</b></font><br>
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
-<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪ 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 : 𝒉𝒕𝒕𝒑𝒔://𝒘𝒂.𝒎𝒆/6281255378890</b></font><br>
-<font color="#00FFFF"><b>+https://wa.me/6281255378890</b></font><br>
+<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪  :  https://t.me/+6282177696801</b></font><br>
+<font color="#00FFFF"><b>+ https://t.me/+6282177696801</b></font><br>
 <font color="green"><b>➪ Support by Emelda Tunnels❤️</b></font><br>
 
 
@@ -27,13 +27,13 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/fadilismee/Autoscript-tunneling-premium/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/fadilismee/Autoscript-tunneling-premium/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 ## sewa autoscript bisa ke wa.me/6281255378890 cuman 10k 2bulan 1ip vps
 ReeMods
