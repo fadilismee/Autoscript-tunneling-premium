@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/"
+    REPO="https://raw.githubusercontent.com/fadilismee/Autoscript-tunneling-premium/main/"
 
 ####
 start=$(date +%s)
@@ -279,7 +279,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/Emeldaa/Autoscript-tunneling-premium/main/register"
+izinsc="https://raw.githubusercontent.com/fadilismee/Autoscript-tunneling-premium/main/register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -316,13 +316,13 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6205242427"
-KEY="7067621582:AAHu3Hkncs7bX6dUju6YrwtRi-12NNvlY80"
+CHATID="5695861976"
+KEY="7089841091:AAGRUxl_ekI8qQV3qfOFKQOoLXsPvhQSj30"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>⚡ReeMods premium tunneling⚡</b>
+<b>⚡vpiins store premium tunneling⚡</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -332,7 +332,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>❤️EmeldaaLuv❤️</b>
+<b>vpiins store</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6281255378890"}]]}' 
