@@ -9,7 +9,6 @@
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
 <font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪  :  https://t.me/+6282177696801</b></font><br>
 <font color="#00FFFF"><b>+ https://t.me/+6282177696801</b></font><br>
-<font color="green"><b>➪ Support by Emelda Tunnels❤️</b></font><br>
 
 
 ## UPGRADE FOR DEBIAN
