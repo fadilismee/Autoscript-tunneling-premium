@@ -1,7 +1,7 @@
 #/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » ReeMods
+# Develovers » vpiinstore online 
 # Email      » woymirza@gmail.coms
 # telegram   » https://t.me/vpiinstore
 # whatsapp   » wa.me/+6281532859320
