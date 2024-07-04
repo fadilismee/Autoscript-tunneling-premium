@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » ReeMods
-# Email      » supriyadi@reevps.biz.id
-# telegram   » https://t.me/reemods
-# whatsapp   » wa.me/+6281255378890
+# Develovers » vpiinstore online 
+# Email      » woymirza@gmail.com
+# telegram   » https://t.me/vpiinstore
+# whatsapp   » wa.me/+6281532859320
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# ReeMods
+# Vpiinstore-Online
 
 NS=$( cat /etc/xray/dns )
 PUB=$( cat /etc/slowdns/server.pub )
