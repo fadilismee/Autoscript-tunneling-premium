@@ -2,9 +2,9 @@
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
 # Develovers » ReeMods
-# Email      » retslavmods@gmail.com
-# telegram   » https://t.me/ReeMods
-# whatsapp   » wa.me/+6281255378890
+# Email      » woymirza@gmail.coms
+# telegram   » https://t.me/vpiinstore
+# whatsapp   » wa.me/+6281532859320
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ReeMods
 
