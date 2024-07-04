@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » AnggaBadol-Store
-# Email      » AnggaBadol-Store@gmail.com
-# telegram   » https://t.me/AnggaBadol-Store
-# whatsapp   » wa.me/+6285664271447
+# Develovers » vpiinstore online 
+# Email      » woymirza@gmail.com
+# telegram   » https://t.me/vpiinstore
+# whatsapp   » wa.me/+6281532859320
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# AnggaBadol-Store
+# Vpiinstore-OnlineStore
 
 REPO="https://raw.githubusercontent.com/fadilismee/Autoscript-tunneling-premium/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}files/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
