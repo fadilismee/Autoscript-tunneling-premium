@@ -1,5 +1,5 @@
 <p style="text-align:center">
-<font color="#FF1493">⚡vpiins store Premium tunneling⚡</font><br />
+<font color="#FF1493">⚡MVS X AVG GROUP⚡</font><br />
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क</b></font><br>
 <font color="yellow"><b>🤗 2 𝑳𝑶𝑮𝑰𝑵 𝑫𝑬𝑽𝑰𝑪𝑬 !!! </b></font><br>
 <font color="magenta"><b>😋𝑵𝑶 𝑫𝑫𝑶𝑺!!! </b></font><br>
@@ -7,8 +7,8 @@
 <font color="green"><b>😃 𝑵𝑶 𝑴𝑼𝑳𝑻𝑰𝑳𝑶𝑮𝑰𝑵 !!!</b></font><br>
 <font color="blue"><b>🤨𝑵𝑶 𝑷𝑶𝑹𝑵18+ !!!</b></font><br>
 <font color="red"><b>क═══════क⊹⊱✫⊰⊹क══════क ➪</b></font><br>
-<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪  :  https://t.me/+6282177696801</b></font><br>
-<font color="#00FFFF"><b>+ https://t.me/+6282177696801</b></font><br>
+<font color="magenta"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪  : https://wa.me/+6281532859320</b></font><br>
+<font color="#00FFFF"><b>𝑻𝒓𝒊𝒂𝒍/𝑶𝒓𝒅𝒆𝒓 𝑯𝒖𝒃𝒖𝒏𝒈𝒊 : ➪  : https://wa.me/+6285727232236</b></font><br>
 
 
 ## UPGRADE FOR DEBIAN
